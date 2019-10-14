@@ -26,7 +26,7 @@ public class MainClass {
 
         System.out.print("Masukkan Bahan Bakar Kendaraan\t\t: ");
         float bahanbakar = input.nextFloat();
-        double a = 13.42134;
+        
         System.out.print("Masukkan ID Kendaraan\t\t\t: ");
         int id = input.nextInt();
 
